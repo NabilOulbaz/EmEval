@@ -1,0 +1,962 @@
+dialogue,emotion
+ OK . ,joy
+ Thank you very much . ,joy
+ It's my pleasure . ,joy
+ You dare to doubt me ? ,anger
+"Excuse me , sir , I'm afraid you can't park your car here . ",sadness
+" Oh ? That's a surprise . Let me see ... D 0411 Our dog's birthday . Yes , I'm sure this my parking space ! ",other
+" Sorry , sir , my mistake . This is your parking space . ",sadness
+ Look ! It's amazing . I can't wait to try it out ! ,joy
+" Hey , two for one . That's a super deal . ",joy
+ And here's her signature ! ,joy
+" Yes . Oh , dear , I can ’ t find my hairbrushes . Can you help me ? ",other
+" Look , dear . It ’ s over there . ",joy
+" I am sorry , sir . I have to give you a ticket . You can appeal to the court within 14 days . You will avoid paying the fine if you can prove that you are not at fault . ",sadness
+ Thank you very much . ,joy
+I can't believe you wear jeans to the office ! Are you trying to lose your job ? ,other
+ Wow ! Nobody told me about that . Won't the relaxed dress code damage the company image ? ,other
+I'm glad these batteries are on sale . ,joy
+ I'm sorry . These batteries are not on sale . ,sadness
+ You ’ Ve had over a month to get this finalized ! Why are things delayed ? ,anger
+" Well , the thing is , we ran into a lot of problems . . . ",sadness
+ I ’ m not looking for excuses here . I just want to get this finished on time ! ,anger
+" I ’ m not going to put this off any longer , Casey ! I want those photos ASAP ! ",anger
+ Thank you very much . ,joy
+" Hi ! Let me get a dozen croissants , four blueberry muffins and a loaf of sourdough bread . ",joy
+ Sure . Would you like to have the loaf sliced ? ,joy
+ Sure that sounds good . Do you have any cakes ? ,joy
+ Hello Dr Peters . Just fine thank you . Ricky and I are here for his vaccines . ,joy
+" OK , great . Doctor , I think I also may need a Tetanus booster . Last time I got it was maybe fifteen years ago ! ",joy
+" Yes , I have everything here . OK , I'll come in and see you later today . Maybe I could have my new car as early as next week ! How exciting ! ",joy
+" Really ? This is a nice office , but it's quite small . ",other
+" It ’ s great , dad . I don ’ t mind delivering papers , but the real fun is collecting the money . ",joy
+ OK . Guess I have to do that before . I can make money my first withdrawal . ,joy
+ I see . Thank you . ,joy
+" Oh , how splendid ! Can you take a picture of me here ? ",joy
+" Okay , that's good . I get it . ",joy
+"Kate , you never believe what's happened . ",other
+ You are kidding . What happened ? ,other
+ That's really surprising . I always thought they are well matched . What about the kids ? Who get custody ? ,other
+ The line is connected . Please go ahead . ,joy
+" Oh , no . Really ? I didn't see anything . ",other
+ Really ? You didn't find a wallet ? ,other
+ Yes . Many things ! I especially love this beautiful quilt . ,joy
+ It sounds like a special quilt . Why do you want to sell it ? ,joy
+ Here is your receipt . Thank you . ,joy
+ I see . Thanks . ,joy
+"Oh , come on , Ultraman ! ",anger
+" Oops , no , Daddy can't watch American Idol , either ! ",anger
+" Oh , my god ! No air-conditioner ! ",other
+ 4:00 A . M . ? I'm really sorry . ,joy
+ That's OK . I'm awake now . ,joy
+"Jack , let ’ s go ! ",other
+ Some people are wildly shooting on the next street . We must leave here as soon as possible ! ,other
+" Sorry , but he is out for lunch right now . ",sadness
+" That's nice . My name is Steven , my phone number is 6789777 . Okay , I'll be waiting for his call . Thank you and bye ! ",joy
+" My pleasure , bye ! ",joy
+What are we going to do ? I can't get the car out of this ditch . I'm stuck ! ,anger
+ I know . This is terrible . What can we do ? This snow doesn't stop falling ! ,anger
+ Alright . That's a good idea . ,joy
+" Oh , my God ! It's good we have food . ",other
+" Oh , sorry . I didn ’ t know . ",sadness
+" No , I ’ m afraid not . ",sadness
+" Oh , well thank you very much . ",joy
+ You ’ re welcome . ,joy
+" That sounds good , thanks , I'd like that . Actually I'd like sprite instead of coke , thanks . ",joy
+" Okay , I think that will be all for me today . ",joy
+" Is that so ? Anyhow I want to go over the details with you in person , so you can give my suggestion thorough consideration . Our firm specializes in this line of business . We have six sales representatives , who are on the road all the time , covering the whole of the European market . ",other
+" Sounds good . I don ’ t want it to be too expensive , maybe something mid-range . ",joy
+We have been over this a hundred times ! We are not getting a pet ! ,anger
+ Why not ? Come on ! Just a cute little puppy or a kitty ! ,anger
+" I will ! I ’ ll feed it , bathe it and walk it every day ! We can get a Labrador or a German Shepard ! ",anger
+ Yay ! ,joy
+ I ’ m glad to hear that . ,joy
+ We have a deal then . ,joy
+"Good morning , Miss Monica . Nice to meet you again ! ",joy
+" Good morning , Mr . Thomas , it is nice to see you too . ",joy
+ Got it ! Wow is that the weight you are lifting ? My goodness that ’ s a lot of weight ! ,other
+ That's very clear . I think I can find my way now . Thank you . ,joy
+ Not at all . ,joy
+ Wish you good luck ! ,joy
+ Thank you . ,joy
+" Oh , how nice.They ' re bright rooms and the house is very quiet . ",joy
+ A nice quiet house is exactly what we're looking for . ,joy
+ That sounds just wonderful to us . ,joy
+ Fine . I'll be expecting you around two . ,joy
+" Yeah . Oh , it's delicious ! ",joy
+ Really ? ,other
+" Definitely . It's a wonderful meal . Thank you , Honey . ",other
+" If you like to help me do the dishes , I'll be more dreadful . ",joy
+" Thank you , I've learned so much from you . ",joy
+ That ’ s all right . Hope you can do better tomorrow . ,joy
+" Certainly , sir . We hope you have a good trip . ",joy
+ why ? anything special there ? ,other
+" Oh , really ? are there any snakes ? ",other
+ snakes ? there are even rodents and monkeys ! it's a world of exotic pets . ,joy
+ that's terrific . I can't wait to check it out . ,joy
+ why not ? it's so cool . ,joy
+ pardon ? ,other
+" yes , good luck , Maria . ",joy
+ Nice to meet you . My name ’ s Sophie . ,joy
+I can ’ t believe Obama is our President . ,other
+ I trust that he will take good care of our country . ,joy
+ Perfect ! I like this one . ,joy
+ Sounds like a good car ! How many miles to the gallon ? ,joy
+ That is really convenient . Especially now that fuel prices are so high ! What ’ s under the hood ? ,joy
+" A very powerful 2.5- liter turbocharged engine , Trust me , this car is fast ! ",joy
+ Great ! Let ’ s do it ! ,joy
+ I see . Thank you . ,joy
+ You are welcome . ,joy
+ Come on ! We have been here for almost an hour ! I thought you said you were only going to get a few things ! How long does it take you to pick out a lipstick and some nail polish ! ,anger
+ Whoa whoa whoa ! Are you nuts ? How much is all this going to cost ? I ’ m looking at the price at each one of these little things and it ’ s outrageous ! This is basically a crayon ! ,anger
+" What about you ? You spend as much or more money on your razors , after shave , cologne and gel ! Not to mention how much you spend on clothes and ... ",anger
+ Fine ! Get the stupid thirty dollar crayon ! ,anger
+ Come on ! I'll pay you back on Tuesday . ,anger
+ Fine ! I can't believe you don't trust me . ,anger
+I ’ m so surprised to meet you in this remote village . Long time no see . ,joy
+ Yeah . How are you these days ? ,joy
+ Thank you . ,joy
+ Yoga ? It sounds interesting . ,joy
+" Yes , I like it very much . ",joy
+ An apartment ? Why ? ,other
+" no , it's definitely my turn to treat you ... you paid last time ! ",joy
+" Ha ! Ha ! If you don't make an effort now , later on it'll be a lot tougher for you . ",joy
+Yikes ! What was that noise ? ,other
+ I thought you had an elephant in your house . ,other
+" Thank you , the service was good ",joy
+ Please come again . ,joy
+ That sounds good . Do I need to bring anything ? ,joy
+ Really ? ,other
+ I like that . ,joy
+" I am sorry , sir , the fish you ordered will take a longer time because we make it with fresh fish . ",sadness
+ Yes . Thank you . ,joy
+" Certainly , that's easy . We will work out our CIF offer this evening . Could you come again tomorrow , say , at 10 AM ? ",joy
+" Okay , see you tomorrow ! ",joy
+" Yes , I would . Thanks a lot . ",joy
+ I'll go take a look . Thanks for your help . ,joy
+ You're welcome . ,joy
+ Thank you . ,joy
+ Not at all . ,joy
+ Didn't tell me what ? What ? ,other
+" Uniforms , sis , no more worrying about appearances ! ",joy
+ You mean I have to wear the same thing every day ? MOM ! ,other
+ Of course . ,joy
+ I've come to make sure that your stay in Beijing is a pleasant one . ,joy
+ Thank you so much . ,joy
+" That's great ! Thanks for your support . If any , please remember to call us . I am afraid I have to say goodbye now ! Bye , Mr . James ! ",joy
+" Sure , why not ? ",joy
+ I see . It feels very light on the skin . ,joy
+" I like the cool smell , too . ",joy
+ It suits my taste . You are really a good cook . ,joy
+Don ’ t throw your weight around . I can ’ t bear you any more . ,anger
+ I dare you to say that again . ,anger
+ I'm so glad for your help . ,joy
+Hey ! What happened ? ! My song was only half way through and it skipped to the next song . ,other
+ I don't know what happened ! ,other
+ Thank you . ,joy
+ How about this one ? I think it looks terrific on you . ,joy
+ Sure . The fitting room is on your right . ,joy
+ You look pretty in red . ,joy
+" Oh , it ’ s my favorite . How much is it ? ",joy
+ Okay . I ’ ll take it . Thank you very much for your help . ,joy
+ You ’ re welcome . ,joy
+ I think that we have a pretty good idea of what we would like to order . ,joy
+Wow ! What's the hold up ? ,other
+" Yes , that seems to be all in order . Thanks very much . ",joy
+ It's a good diet and a regular exercise . ,joy
+" Yes , quite right . ",joy
+ It ’ s still up in the air . There is something wrong between us . ,sadness
+I'm now on the Songshan airport getting ready for departure . I realized that I might have left my watch . ,sadness
+" Oh , I'm glad to hear that . Would you kindly send it to the Hilton Hotel ? ",joy
+ I think that it ’ s absolutely gorgeous . ,joy
+ I ’ m happy that you find this apartment so appealing . ,joy
+ It is . I love it . ,joy
+ I ’ m sorry She isn ’ t in at the momment.She will come back at half past nineCan I take a message for her ? ,sadness
+ Thank you.But I will call her later ,joy
+ OK.Goodbye . ,joy
+ Goodbye . ,joy
+" Yes , my watch says a quarter to seven . but there is something wrong with my watch ! ",anger
+" You are so kind , you helped me a lot . ",joy
+ You are welcome . Bye ! ,joy
+ Great ! I ’ ll take it . ,joy
+ Have a great trip . ,joy
+ Thanks . I'm going to follow your advice and pop down to the supermarket right now . ,joy
+"I've been so tired recently . I've been trying , but I don't think I'm up to this job . ",sadness
+" Oh , yes , indeed . I've run out of steam . To be honest , I want to be in a different environment . ",sadness
+ Is that so ? ,other
+" I hate the bus system in London ! The bus drivers are rude , the buses are never on time , and there are few people around who can help you . ",anger
+" It wasn't just once . Every single time I take the bus , something bad happens to me or to someone else on the bus . ",anger
+" Thanks , that was nice of you . ",joy
+ I'm Bill . I'm in Room 908 . Can you change the room for me ? It's too noisy . My wife was woken up several times by the noise the baggage elevator made . She said it was too much for her . ,anger
+ See you in the morning . ,joy
+" Oh , I remember now.Very nice to meet you again . ",joy
+" Nice meeting you , too . ",joy
+ Shame on you ! ,anger
+ Thank you . ,joy
+" You're going out of your way for us , I believe . ",joy
+ You are our honored guests . ,joy
+" Thank you , Mary . We have been looking forward to trying out this restaurant . ",joy
+" Sure , that sounds great . Where are your appetizers listed ? ",joy
+" You know , that is one of my favorites ! ",joy
+ Perfect ! Please add on an order of onion rings . ,joy
+I am waiting for a fax but just now I found there's something wrong with the fax machine . ,sadness
+ I will . Good luck with your volunteering . ,joy
+We hope that there will be no repetition of this kind of trouble in the future . ,anger
+" Yeah , you are a good learner . I must commend you for your good performance . ",joy
+ Thank you . That's a long way to go for my job . ,joy
+" Oh , thank you kindly . ",joy
+ You ’ re welcome . ,joy
+ Thank you . I'm glad that you believe me . ,joy
+ that's a good idea . I was thinking of buying some gifts for my family . ,joy
+" I agree . They're very lovely , especially "" Huan Huan "" . ",joy
+ it all sounds great . We can go there after the match . I can't wait to see what they have . ,joy
+Mom ! I hate eating vegetables ! ,anger
+ But I don ’ t like them ! It ’ s not fair ! ,anger
+ Thanks mom ! ,joy
+ Thank you . I think we may be able to work together in the future . ,joy
+I'm glad you're on your ten-year reunion planning committee . ,joy
+" Thank you , you helped me a lot . ",joy
+ That is good to hear ! ,joy
+" I'm glad you thought of this . I'd have just gone ahead and cashed it ! And I suppose I can use the money from the certificate to pay back this Personal Durable Commodities Loan and I won't lose any interest , right ? ",joy
+" Absolutely , Jenny . Thanks very much , I think you've saved me quite a lot of money today . ",joy
+ What a nuisance ! ,other
+" That was a pleasant surprise . It means I can have tea , instead . ",joy
+ That's great ! Thanks for your help . ,joy
+ Thank you . I think today we will go there . ,joy
+" Um ... Uh ... I'm just looking , thanks . ",joy
+" No , no , no . I'm just browsing . Thanks anyway . ",joy
+ Thanks . ,joy
+ That's why it's interesting . ,joy
+" My boss offered me a promotion , and I took it . ",joy
+ Are you serious ? ,other
+" Yes , I am really excited . ",joy
+ That's great . Congratulations . ,joy
+ I appreciate that . ,joy
+ You have no idea how happy I am for you . ,joy
+ For real ? ,other
+ I believe you were the best choice for that promotion . I really do . ,joy
+" I like Chinese food , too . I like dumplings best . ",joy
+ That's good . We eat Chinese food only at the Chinese restaurant . ,joy
+ Really ? That's wonderful ! ,joy
+" Oh , breaktime flies . ",sadness
+ I ’ m awfully sorry to hear that . I ’ ll turn to it right away . ,sadness
+ I'm afraid I can't . ,sadness
+ Very good . I ’ ll take it . ,joy
+ Thank you very much . ,joy
+ You're welcome . ,joy
+ It's hard for us to believe it . Our instruments have been the best quality for years . Have you any reliable evidence ? ,other
+ That is truly amazing ! ,joy
+" Yes . By the way , you are having a great make-up today . I like the color of your lipstick . So adorable ! ",joy
+ Really ? It took me really a while to find the color . I am happy you like it . ,other
+"Excuse me , would you tell me how to return to Hilton Hotel . I'm afraid I lost my way . ",sadness
+The bathroom looks lovely . Did you redecorate it yourself or did you get someone in to do it for you ? ,joy
+ I think you ’ Ve done a very good job . As least as good as a professional would do . Perhaps I can convince you to redo my bathroom ? ,joy
+" You ’ ll be lucky ! However , I ’ ll print out the income 3ation I got from the internet and you can do it yourself . ",joy
+ Thank you . I think I should also have a look at the Internet to see if anyone's got a sublet . ,joy
+ Thank you . I'll be sure to take a look . ,joy
+ Good luck . ,joy
+" Thank you very much , Your Honor . ",joy
+Yes ! I finally lost that last five pounds I've been working on forever ! ,joy
+ I'm impressed . Good for you ! ,joy
+ Really ? ,other
+" No , thank you . ",joy
+ You're welcome . ,joy
+ The color and style are consistent with the sample . Great ! ,joy
+" Very well , Go ahead . ",joy
+ Have a nice trip . ,joy
+ No ! He hit me first . ,other
+" 13924774026 . All right . Thanks for calling . Oh , hang on , someone's at the door that may be him , please hold on . ",joy
+ Fine . Thank you very much . ,joy
+" Oh , sweet . You've always been my love too . ",joy
+" I don't think I say this enough , but I want to thank you for your kind listen patience , you ' Ve always been there for me . ",joy
+" I'll do everything for you , love . You know that , maybe you didn't realize , but you made everyday a enjoys moment and happy occasion . ",joy
+ I am so glad we met one another . ,joy
+ Stop talking like my mother . That's what she keeps saying . ,anger
+ My pleasure ! This tea towel ’ s a little ragged . Do you have another one ? ,joy
+" Well , thank you for your information . What ’ s the name of that restaurant again ? ",joy
+ That ’ s very kind of you . Thanks a lot . ,joy
+" Yes , many thanks . Goodbye . ",joy
+ That sounds nice and cheap . ,joy
+ Your wife will be thrilled with the roses . ,joy
+" Oh , really ? ",other
+ Thank you and good luck . ,joy
+" Oh , aren't you afraid ? ",other
+Hey ! I just bought one of those new Japanese cell phones ! It's loaded with extras . ,joy
+ It's got a built-in video camera so you can see the person you're talking to.It also takes stills and I can use the E-mail mode to send digital pictures straight to my friend's phone ! ,joy
+ Wow ! What else does it do ? ,joy
+ Cool ! Anything else ? ,joy
+ Wow ! ,joy
+ You'll love this ! I can use a stylus to draw a map on the touch screen and then use the fax mode to send it to another phone . ,joy
+ Thank you . ,joy
+" Well , thanks very much . ",joy
+ Sure sounds good to me . ,joy
+I can't stand the stupid guy any longer . It ' s unbelievable ! ,anger
+ He does everything so mindlessly that he is going to drive me crazy . ,anger
+" I have told him how to do it several times , but he's never listened to me . ",anger
+" Oh , I always have difficulty in getting along with the staff . ",anger
+ I think that's a bad idea . I'd hate anyone here to think of me as a friend . How would they ever respect me as they can do whatever they want ? ,other
+"Staying out all night , you frightened me to death . ",anger
+ You should at least give me a call . ,anger
+" I'm sorry , Mum . ",sadness
+ Sorry . I didn't mean to . ,sadness
+" Sorry , it ’ s all sold out . ",sadness
+ Certainly . ,joy
+ Cancelled ? That's just can't happen ! ,other
+ Everything sounds great then ! I'll meet you back here on Friday to discuss the details . ,joy
+ It's a Chevrolet . Why do you ask ? You going into the car business ? ,other
+ They turned me down . ,sadness
+ Why ? You are so excellent . ,other
+ I think the only reason is that I was too nervous during the interview and I couldn't express myself the way I wanted to . ,sadness
+ What a shame ! You should have showed yourself to them ! ,sadness
+" Oh , thank you . That ’ s very kind of you . ",joy
+ Really ? It is amazing . I will apply for a position in your company . ,other
+" You just cut into line , in front of me and everyone else , that's what ! Go take your place back at the end of the line , like every - one else ! ",anger
+" Oh sure , lady , and fat chance I'd get a ticket before they're sold out . I'm staying right here , understand ? So be a nice lady and butt out ! ",anger
+ Just what gives you the right ... ? ,anger
+" Because I'm no sucker ; only suckers go to the end of the line . It's as simple as that , lady . ",anger
+ Whew ! I got the last one . This must be my lucky day ! ,anger
+" Lady ! This is unfair ! I've been cheated ! I was in line before you.That should have been my ticket ! Come on , hand it over , lady ! ",anger
+" Gentleman ! Hah ! Fat chance ! Hah ! Eat your heart out , sucker ! Hah ! ",anger
+ Take care ! I will miss you so much . ,sadness
+ No problem . ,joy
+ Sure . What kind of food do you like ? ,joy
+ That sounds great . I love Korean food . ,joy
+" Oh , dear . What was in it ? ",other
+ Sure . Why don ’ t you try it on ? The fitting room is over there . ,joy
+ It ’ s just the right size-a perfect fit ! Have you seen anything you like ? ,joy
+" There.It looks great , don ’ t you think ? I ’ m going to get these jeans as well . I need a new pair . I ‘ m also going to buy this scarf ready for winter . ",joy
+" I ’ m getting this beret ? Doesn ’ t it look cool ? I ’ d like to get some jeans too , but I don ’ t have enough cash on me . ",other
+ Thanks ! Now I don ’ t need to come back to the shop a second time . ,joy
+" That's bad ! I've been trying to call him for the last ten minutes , but your line has been busy . Will he be back soon ? ",sadness
+ I see . Thanks anyway . ,joy
+ No problem . ,joy
+ Thank you . ,joy
+" Fine , thanks a lot . Bye ! ",joy
+ What perfect timing ! ,joy
+ Great . I'll be in later today . Thanks for calling . Bye . ,joy
+ That sounds like a plan . ,joy
+ Cool . Then I can just throw everything in the dryer for an hour and it ’ s all set right ? ,joy
+ What a pity . ,sadness
+" Let me see . I am sorry , sir . We will change another one for you . Please wait a moment . ",sadness
+ That's very clear . I think I can find my way now . Thank you . ,joy
+ Not at all . ,joy
+ OK ! Thank you very much ! ,joy
+" Oh , Thank you . I'm looking for the train station . ",joy
+ Thank you very much . ,joy
+ Anytime . ,joy
+" Thank you , doctor . Bye . ",joy
+ I just hate being alone at home with nothing to do about listen to the clock ticking.It ' s so lonely and boring . My sickness makes it worse . When will I recover ? ,sadness
+ You only care about your work . ,sadness
+ Yes . ,joy
+ Thank you . ,joy
+ He told me the tests were negative and there was nothing wrong with me . ,joy
+I'm in heaven ! A Whirlpool dryer ! ,joy
+" I love them , too . Let's move into the kitchen . Wait until you see the refrigerator . ",joy
+ This is too good to be true . ,joy
+" And the stove is brand new . You know how to use a gas stove , right ? ",joy
+" Yes . We've lived in Taiwan for a while . I had a gas stove in the States , too . ",joy
+" It's better for cooking Chinese food . Well , what do you think ? ",joy
+ We love it . But we'd like to know about the neighbors . ,joy
+ I am really pleased with it . ,joy
+ I am glad you are happy . ,joy
+ It's super . ,joy
+" Oh , that's great . ",joy
+" I am sorry mam , but we can only exchange or refund defective products , we cannot take responsibility for misuse or damages . ",sadness
+ Fine ! I don't know why they make these things so delicate anyways . ,anger
+" Look , Danny . The Four Great Inventions ! ",other
+" Milestones ? May , you must be kidding . ",other
+ What a coincidence ! These pajamas would be perfect to take along on the honeymoon ! ,joy
+" You're probably right . Oh , what the heck ! I'll take it all ... in maroon , like you said . ",joy
+What a terrible house ! ,anger
+" The door bell doesn't work , there's no hot water , and the building is falling apart . ",anger
+This website offers very convenient air tickets booking service . It is quick and accurate . ,joy
+ 50 dollars . That's too much . ,other
+" Oh , that is wonderful . Congratulations ! ",joy
+ I really feel grateful to you for your reference . They have mentioned this in the job interview . ,joy
+ Don't mention it . I think that is because you have right qualifications and nice personality . ,joy
+ Thanks again . I will start on next Monday . I am sure I will have good performance . ,joy
+ It sounds good . Could I go and see it myself ? ,joy
+" Welcome ! Come in , please ! ",joy
+" Wonderful ! A modest , comfortable room . Ah , a beautiful window , through which I can see a beautiful scene , and hear the birds singing . How nice ! ",joy
+ Excellent ! I like it ! When can I move in ? ,joy
+ OK . ,joy
+ I am calling to say thank you for the interview yesterday . ,joy
+ You are welcome . I am very impressed by your capability . ,joy
+ Sounds good . I'll take paper-cut . ,joy
+" Wow , you are the expert on it . ",joy
+" Oh , I'm sorry . should have been 2135-3668 , not 3678 . I've given you a wrong number . ",sadness
+ Thank you . ,joy
+ Thanks a lot . And I believe I'll have a good time working with you . ,joy
+ I think so . Bye ! ,joy
+ Bye ! ,joy
+You're finally here ! What took so long ? ,joy
+ That's true . I could certainly use the exercise ! ,joy
+" I'm glad . Now , there's a deposit fee of two month's rent . ",joy
+" Oh , no ! I'm leaving for Japan at 11 this morning . ",other
+ Is that right ? We're very sorry . ,sadness
+ I'm afraid we can't return it by 11 o'clock . ,sadness
+" That's fine , thank you . ",joy
+ Break it up ! I will not permit fighting in this campus . ,anger
+the air quality in this city is horrendous ! The pollution levels were so high that we weren't supposed to go outside with a face mask again ! ,anger
+" on top of that , there are a few large chemical factories in the suburbs , which are contributing to the high pollution levels in the water and the air in this city . ",anger
+" Thank you . Yes , I would . ",joy
+ That does look easy . I think I'll make some tonight . ,joy
+" These machines aren ’ t very difficult to use . In fact , I quite like them . They are much faster than dealing with a band clerk . ",joy
+" I am sorry , you have the wrong number . ",sadness
+" Oh , I am really sorry . ",sadness
+ Here you are . Thanks a lot . ,joy
+ Thanks a billion . ,joy
+" Janice , David , come here . We take some photos here . I can't imagine how beautiful it is ! ",joy
+ Thanks . ,joy
+" What are you talking about , we tried everything ! ",other
+I've got some great news for you ! ,joy
+" Yes , I'll be promoted to department manager . ",joy
+ I'm glad to hear that . Congratulations ! ,joy
+" Thank you . Actually , I could not believe it at first . You know , there're so many outstanding people in our company . Many of them are qualified to fill that position . ",joy
+" Sure , but you really did great and outperformed the others . You deserved it ! ",joy
+ Not at all . It was a pleasure . Perhaps you will come out with us again while you are here . ,joy
+" Yes , I'd love to . Thanks again . Goodbye . ",joy
+" I ’ m sorry . You can ’ t return it because too much time has passed since you purchased it . In order to receive a refund , you must return merchandise to the store within 90 days of purchase . ",sadness
+ Okay . I understand . I ’ ll call the Customer Service Office of the manufacturer . Thank you . ,joy
+ You ’ re welcome . ,joy
+ Great . One last question . Where is your jazz section ? ,joy
+" Oh , I see it . Thanks for your help . ",joy
+ No problem . ,joy
+"Sorry , I overslept . My clock didn't go off this morning . ",sadness
+I was really glad to hear about your award . Congratulations ! ,joy
+" Thanks , Denise . Actually , I was really surprised . I mean , there were a lot of qualified people out there . ",joy
+ Sure . But the work you did was really exceptional ! You definitely deserved it ! ,joy
+" Thanks a lot . I expect to see your name nominated pretty soon , too . You ’ Ve been doing some great work ! ",joy
+" Yes , Todd , how nice to hear your voice ! ",joy
+" Linda , I just wanted to say that I had a wonderful evening with you last Friday . ",joy
+" I really enjoyed our evening together , Todd . ",joy
+ I had fun also and was wondering if you would like to go hiking with me in the mountains on Saturday . ,joy
+ Hiking would be perfect ! May I bring along a picnic lunch for us to share ? ,joy
+ A picnic lunch would be a nice thing to have along . ,joy
+ Thanks . Good-bye . ,joy
+" if that happens , then I'll invite you over and we can drink hot cocoa and watch movies . ",joy
+ that sounds like fun . ,joy
+" Thank you , Mr . White . I really appreciate your assistance . ",joy
+ I see . Thank you . ,joy
+" Only $ 2,000 ? Are there any other ways to get the money exchanged ? ",other
+ It ’ s because of my son . Dick keeps getting on my nerves ,anger
+" Yes , he used to be . But now he ’ s drifting off track . ",anger
+ but i can see you dance wonderfully well . ,joy
+ thanks for flattering me 。 i think you dance much right ? ,joy
+" oh , i like this music very much , let's tango . ",joy
+ Those are the ones that are pre-dipped in sweet coating ! ,other
+I think that you look very cute today . ,joy
+ Is that right ? This is a brand new outfit . ,joy
+ I love your outfit right now . ,joy
+" Well , I think you look nice today too . ",joy
+ Thanks . I found these new shoes earlier at the store . ,joy
+ Dance class ! I don't know how . ,other
+" I know . Sorry , I shouldn't have rushed you , but I just couldn't stay at home and wait . ",sadness
+ Why not ? I'd love to do that . ,joy
+ Wow . Look at this . So delicate and beautiful . Did ancient Chinese people really wear them ? ,joy
+ Unbelievable ! I could never do that . ,other
+ Exactly ! ,joy
+I am sorry . I didn ’ t accomplish the job on time . ,sadness
+" OK , here you are . ",joy
+ Thank you . ,joy
+ Don't worry . I will try to get a taxi for you . You can take it to the bus station . ,joy
+ I am very grateful to your help . ,joy
+ Don't mention it . It is my duty . ,joy
+ Thanks again . ,joy
+" Uh ! I can't swallow them , Mom ! ",anger
+ Yuck ! ,anger
+" Oh , hello , Tom ! Beautiful day , isn ’ t it ? ",joy
+" Yes , it is ! ",joy
+ That's very thoughtful of you . Thank you so much . ,joy
+ You're welcome . ,joy
+ You can ’ t do that ! It ’ s illegal ! ,anger
+I can ’ t believe these skirts are so cheap . ,other
+" Good idea , especially at this price . ",joy
+ Thank you ! I always tune to this program when driving . So what's your favorite program ? ,joy
+ Thank you so much . I'll try and catch that . ,joy
+ That sounds ideal . Could you show me some ? ,joy
+ Thanks a lot . What I ’ ll do si find out more online and drop by next week . ,joy
+ Great . I'll see you at 6 . Do you know where it is ? ,joy
+ Thank you very much . ,joy
+ It ’ s my honor . ,joy
+"Holly ? Holly Madison , is that you ? You look great ! You haven't changed a bit . ",other
+" Really ! Oh , honey , you are so sweet . I'll chop up this carrot . ",joy
+ How things have changed now ! ,other
+" We ’ ll contact you soon , Ted . Thanks for coming in . ",joy
+ Woo cool . Which mountain are you going to conquer ? ,joy
+" Of course , I will . ",joy
+ I need to file a complaint . ,anger
+ I got robbed . ,anger
+" Sure , Johnny , how much do you need ? five bucks ? ",joy
+" Fine , then ! If that ’ s the way you feel , so be it . But you ’ re losing out on a great opportunity here . I ’ m going to go hit up Mum for the cash . ",anger
+" Yesterday ! But no , we are hoping to start from the beginning of next month . ",joy
+ That sounds ideal . ,joy
+Smells good ! What ’ s for breakfast ? ,joy
+" Well , since we are getting up so late , I decided to make a big breakfast ! ",joy
+ Nice ! Brunch ! ,joy
+" Kind of , so I made scrambled and soft boiled eggs , some french toast and buttermilk pancakes ! ",joy
+ Wow ! You really went all out ! Did you make any coffee ? ,joy
+" Yeah , just the way you like it ! I also put out some cereal and muesli if you feel like having something more light . ",joy
+ Looks good ! I ’ ll squeeze us some fresh orange juice . ,joy
+ Get the jam and butter while you are in there ! Oh ! And don ’ t forget the syrup ! ,joy
+"Come on , fellows . Let's enjoy my wife's cooking ! ",joy
+" Em , it's delicious ! ",joy
+ Thank you ! My wife likes cooking very much . ,joy
+ You're lucky . ,joy
+ Thank you very much . ,joy
+ It's our pleasure . ,joy
+ Good . Good luck to you ! ,joy
+ Thank you very much . ,joy
+ It's nice to meet you . Thanks for coming . ,joy
+ It's my pleasure . ,joy
+ Not at all . She's a joy to have in my class . ,joy
+ She is absolutely wonderful . ,joy
+ No . She is actually very intelligent and well behaved . ,joy
+ I'm glad to know that you like her . ,joy
+ You have nothing to worry about with her . ,joy
+ That's great ! How much is it ? ,joy
+" I'll do that , Mr.Zhang , See you tomorrow . ",joy
+ See you ! ,joy
+ Thank you very much . ,joy
+ That's all right . Have a good day . ,joy
+" I think it ’ s great ! I really like the color , and it goes really well with your eyes . I ’ Ve actually been eyeing that dress at Maxine ’ s for a while now , but I wasn ’ t sure I could afford ninety-five dollars for a dress at the moment . ",joy
+" Of course ! Everything at Helen ’ s is overpriced , and they sell things that you can find at almost every other clothing store ! Why didn ’ t you shop around ? ",joy
+" Well , trust me . The quality is fantastic . ",joy
+ All right . Thank you . ,joy
+ Thank you . ,joy
+ Really ? I think you see more traveling by train . ,other
+ Get out of here ! I didn ’ t even know they were dating ! ,other
+" Oh , dear ! ",other
+" You are right . For the past few weeks , I had no appetite and couldn ’ t sleep well . What ’ s worse my back started aching this Monday . It is time for me to take a vacation . ",sadness
+" Well , that sounds just wonderful . ",joy
+" Yes , it ’ s a really nice neighborhood . ",joy
+ Oh ? What's that ? ,other
+ You refused the gift ? That's terrible . ,other
+" Boy , oh boy ! I can't wait to change into my swim trunks . ",joy
+" Cheers ! And we are honored to have such an honored guest today . Mr . James , I hope we will meet somewhere in the near future . ",joy
+" Madam , we also welcome you to visit our company . I hope you can also bring your family there to have a look of our company . In this way , we will know each other better . ",joy
+ Definitely ! Thank you ! ,joy
+ Thank you for all of the information . I will help you find the perfect house for you . ,joy
+ Here you are . Thank you ,joy
+" Sorry , We don't take returns on sale items . ",sadness
+ Thank you . ,joy
+" Thank you for waiting.It takes another ten to fifteen minutes , I'm afraid . ",sadness
+ We have an appointment in half an hour . ,other
+"Hi , Sally ! You are talking to the proud father of a new baby girl ! ",joy
+" Congratulations , Bob ! That ’ s great news , what ’ s her name ? ",other
+ That ’ s a pretty name . Give your wife my best ! ,joy
+ Thank you . ,joy
+ I hate dentists . ,other
+ It always hurts . I hate going . ,other
+" Four times . I'm totally prepared . Oh , no ! I forgot to take off my nail polish ! And I have to be there in 15 minutes ! That's it . I blew it . ",sadness
+ A teriyaki bowl sounds nice . ,joy
+" That sounds fairly simple , but how do I cook it ? ",joy
+" Engaged . Oh , dear ! Could you tell her it's a long-distance call ? ",other
+ Sure . ,joy
+" No , it's right here , see ? The ATM will not accept it ! ",other
+" Well , that explains it . I've been using my old PIN number ! Thanks for explaining everything to me . ",joy
+ Good mastery . How do you like our Chinese food ? ,joy
+" Oh , great ! It's delicious . You see , I am already putting on weight . There is one thing I don't like however , MSG . ",joy
+ What's wrong with MSG ? It helps to bring out the taste of the food . ,other
+ It was a nightmare . ,sadness
+" Well , the air line lost my luggage on the return flight and then I lost my carry on bag when I was tackling with the officers in charge . I left the airport three hours later than I expected and then I was caught in a traffic jam . When I finally got home , I was totally exhausted . But I found the elevator was out of service due to a blackout . ",sadness
+ I am still waiting for their call . ,sadness
+ Come on ! In the two hours we've been here you haven't sung even one song ! ,anger
+" Oh , you are so efficient . I thought you might give it to me tomorrow . Thanks . ",joy
+" This is encouraging news , good for you ! What is your solution , then ? ",joy
+ Sounds not bad ! Better performance isn ’ t just about doing a lot more . It is about focusing on the right things to do . ,joy
+"I think your presentation impressed the client , Daniel . You did a good job . ",joy
+" Thank you , Mr . Cooper . I hope we get the contract . ",joy
+" Good point . Ok , let's go to the estate agent and see what they can offer us . ",joy
+Smells good ! What ’ s for breakfast ? ,joy
+" Well , since we are getting up so late , I decided to make a big breakfast ! ",joy
+ Nice ! Brunch ! ,joy
+" Kind of , so I made scrambled and soft boiled eggs , some french toast and buttermilk pancakes ! ",joy
+ Wow ! You really went all out ! Did you make any coffee ? ,joy
+ Looks good ! I ’ ll squeeze us some fresh orange juice . ,joy
+" Yes , that was one fantastic meal ! ",joy
+ I agree . Maybe we can come back again next week . ,joy
+" No , thanks a lot . I'll try it myself . ",joy
+" Gosh sir , thank you , sir ! I had no idea there were any positions opening up in our department . ",joy
+" Management ? Wow , I had no idea I could move so quickly from entry level to managerial staff . ",other
+ Thanks for your help . ,joy
+I miss grandma . I dreamed about her yesterday . ,sadness
+"Oh , my God ! I've been cheated ! ",anger
+ It's a brick ! I can't believe how stupid I was . Damn it ! ,anger
+" Wow , Arthur ! You ’ re as blind as a bat ! ",other
+" Yeah , I know , my vision is really blurry at times . ",sadness
+"A guy in my office got the flu the other day . Today I seem to have come down with it , too . ",sadness
+ But I'm going on a business trip in two days ! ,other
+ Thanks . Let's go driving again tomorrow . ,joy
+ Thank you . Have a good one . ,joy
+ I absolutely love the apartment . ,joy
+ I ’ m glad to know that you think the apartment is so nice . ,joy
+ It ’ s absolutely incredible . I ’ ll take it . ,joy
+ Excellent . I would be happy to get started on it . ,joy
+" Oh ! I see . I'll have the paperback , please . ",joy
+ You bet . I wouldn ’ t miss it ! ,joy
+" Yes , of course . Thank you very much . ",joy
+ You're quite welcome . Thank you for calling . Bye-byeB ,joy
+" Oh , my God ! ",other
+This broth is wonderful . What's in it ? ,joy
+ Lamb and beef . It will get even tastier when we add the veggies ! ,joy
+ So ? ,other
+ Thanks a lot . I'll be there tomorrow . ,joy
+ Sure . ,joy
+ That was nice and fast . Thanks . ,joy
+ Not at all . ,joy
+" Thanks . Come back here next Wednesday to pick up your order , please . ",joy
+ Great ! Pasta for dinner . ,joy
+"Well , I'm glad you're finally back . I was wondering what happened . ",joy
+ You got lost . You're kidding ! ,other
+ You've been gone for two hours . How could you get lost for so long ? ,other
+ Grangerfield ! You were in Grangerfield ? That's a completely different town ! How could you drive to a completely different town ? ,other
+" Yes , thanks . ",joy
+ It's very good . How do you make it ? ,joy
+ This salad looks so nice-just right for a hot day . ,joy
+ I'm glad you like it . ,joy
+" Oh , but Chinese food is so delicious . I wish I knew how to cook Chinese food . Do you follow recipes ? ",joy
+ Really ? ,other
+" Dad , but I don't want to share a room with Peter . He snores every night . ",sadness
+ Turn on the radio ? What for ? ,other
+ I see . Thanks a lot . ,joy
+ You're welcome . ,joy
+The buildings are really magnificent . ,joy
+" Well , I had a blood test last week . The doctor said that I have high blood pressure and my blood is thick and sticky . I'm very worried . ",sadness
+ Sounds nice . I'll have that please . ,joy
+" Oh wow ! Thanks a million , Angie ! ",joy
+ Thank you very much . ,joy
+" Okay , thank you . I'll make another reservation as soon as I can . ",other
+ It's been my pleasure to help you . ,other
+ Thanks for letting me know . ,joy
+ You're welcome . ,joy
+ Thank you very much . ,joy
+" That sounds perfect . Do you think I can get some highlights today , too ? I've always wanted red . ",joy
+" Great . My assistant will wash your hair , and then I'll be back to help you . ",joy
+"Oh , damn . There ’ s another traffic jam on the highway . ",anger
+" Yeah , all right . ",joy
+ Shame on you . I was saving them for your brother . ,anger
+" Sorry , you have the wrong number . There ’ s no Brian here . ",sadness
+" Oh , I ’ m so sorry . ",sadness
+ That ’ s OK . ,joy
+ I'm embarrassed ! I forgot completely about them . I'm terribly sorry . ,sadness
+" Great . I forgot to ask you , though . How long did you want the place ? ",joy
+ Of course . ,joy
+ Yes . Thanks . You can move your stuff in tomorrow . ,joy
+ Wonderful . ,joy
+" Thank you very much.By the way , is the hospital beside the bookshop . ",joy
+ Thank you for your help . ,joy
+ Not at all . ,joy
+How beautiful the flower is ! ,joy
+" Really , it's so beautiful . ",joy
+" You like it . Well , I'll gather in for you . ",joy
+ Thank you . ,joy
+ What happened to you ? You look like you got hit by a tornado ! ,other
+ Cool ! ,joy
+Thank god you are open ! I have an emergency ! ,joy
+" No , you don ’ t understand , I need this tomorrow morning ! I accidentally spilled beer all over my wife ’ s dress and we have a wedding to attend tomorrow ! She ’ s gonna kill me ! ",other
+ Certainly . ,joy
+" Great ! This is our secret ! If you see my wife , say nothing to her about this ! ",joy
+My warmest congratulations on your promotion ! ,joy
+ You are very modest . Best luck in your new position . ,joy
+"Yes , emergency . There is a huge fire here . ",other
+ Thank you . ,joy
+ You are welcome . ,joy
+" Well , the tapestry is delicate and beautiful . ",joy
+" Mmm , it is reasonable . Look at this set of table wear , it is so beautiful ! ",joy
+ All right . I will take one . ,joy
+ It must be interesting . ,joy
+" Yes , you're right . ",joy
+Man ! That car almost hit me ! ,anger
+"Doctor , save my baby , please ",sadness
+Jack ! Do you want to see a picture of my new puppy ? ,joy
+" Sure . I thought people only showed off pictures of their new babies , not new pets ! ",joy
+" Well , this is my new baby . He ’ s just as much trouble . That ’ s for sure ! But , he ’ s a lot of fun ! ",joy
+Thank you for organizing this great baby shower for me ! I ’ Ve always been to baby showers but never actually had one held for me ! Let ’ s get started ! ,joy
+" Ok , let ’ s start opening some presents ! ",joy
+" Oh look ! What a great little bib for the baby ! This will definitely come in handy ! Oh wow , you also got me a stroller ! That ’ s so great ! Thank you ! ",joy
+" A highchair and car seat ! Wow Betty , thank you so much ! I really appreciate it ! ",joy
+ A playpen and crib ! Thanks Carla ! This is just what I needed ! ,joy
+ Umm . I think my water just broke ! Get me to a hospital ! ,other
+"Wow , this is amazing . I'm glad we've come here . So cool . ",joy
+" I always love skiing . You know , it's a cool game for cool people . Stay with me and you will be cool , too . ",joy
+" Hey , look over there . It seems that there is something interesting going on . Let's go and have a look . ",joy
+ Don't you know that ? Are you kidding me ? ,other
+" It's a good thing . OK , let's go skiing . ",joy
+ I'm afraid I can only rent it for two months . ,sadness
+ It's very kind of you . ,joy
+ You're welcome . We wish you a speedy recovery.Goodbye . ,joy
+" I'm sorry sir , but we are fully booked tonight until eight . ",sadness
+ Thank you very much . ,joy
+ I'm afraid he is not in at the moment . ,sadness
+ Thank you very much . Bye . ,joy
+ You're welcome . Bye . ,joy
+"Excuse me , I ’ Ve been waiting my main dish for quite a time . ",anger
+ Thank you . ,joy
+ No problem . ,joy
+" Why not , thank you . A little tea would be nice . ",joy
+ Everything appears to be in order . Thank you for your time . ,joy
+"Francis , you have done an outstanding work in the past six months . In view of your achievement , I trust you ’ re now indispensable part of our company and you deserve an officer director title . ",joy
+ I am so happy to know that I could make some contribution to our company . ,joy
+" This title does not only give you a raising pay-check , but also increase responsibilities . Congratulations , and hope the best for you . ",joy
+" Thank you , I will be doing my best . ",joy
+ I like the sound of that . I'll just come back next weekend . ,joy
+ The savings will be worth the short wait . See you next weekend . ,joy
+ Well . I can't find my key now . I think I have lost it . ,sadness
+ Thank you . ,joy
+Come on . Don ’ t cheat on me . It ’ s a long shot . ,other
+ Be prompt . Don't forget to be friendly and interested . Listen carefully and listen to what they are really asking you . You'll be a hit ! ,joy
+" Oh , yes . This is very nice . I'll take this one . ",joy
+ That's a good choice . How do you want to pay for it ? ,joy
+ It sounds nice . We can't wait to visiting the factory . ,joy
+" I would really appreciate that , thanks . ",joy
+ Sure . We have both skirts and trousers that would look well with the T-shirt . Look at this section . ,joy
+ This one is good . ,joy
+ You have good taste . It is very much in style this year . ,joy
+ Really ? ,other
+ Thank you for calling.Goodbye . ,joy
+ Bye . ,joy
+ Isn't that a bit excessive ? ,anger
+" Thanks . It's comfortable . Well , how much is it , please ? ",joy
+ Ok . I'll take it . Here's the money . ,joy
+ Really ? I am too happy . ,joy
+" Thanks for your trust . Owing to my colleagues ' help , I've successfully completed my task . ",joy
+ Thank you very much . I will redouble my efforts in the future . ,joy
+ Things are so great here . I almost smiled myself to death last week . One of my coworkers had to give me CPR . ,joy
+" Oh.Jack , I have missed your sense of humor.Ha ha ha ! Nobody else sees things quite like you do.It ' s your gift . ",joy
+" Yes . Look at these historical relics here , amazing ! ",other
+" The bronze cup was made 4,000 years ago . It's priceless ! ",other
+I am so worried about this English contest . I have butterflies in my stomach now ! ,other
+ Thanks . ,joy
+" I am sorry , sir . Your fish will be ready in five minutes so you can't change it . ",sadness
+ I am very satisfied with your answers . ,joy
+ Thank you very much . ,joy
+"I am sorry , sir . I have broken the reading lamp in my room . ",sadness
+" This is ridiculous ! In Taiwan , it is much easier to get medicine when I need it . ",anger
+ But that doesn't stop me from drinking . Ahahah . ,joy
+" Sure , that ’ d be great.Where would you like to go ? ",joy
+ Aren ’ t you sweet . ,joy
+ That's very kind of you . Thanks a lot . ,joy
+ really ? That ’ s fantastic . What kind of business is it ? ,other
+" it started off a bit slow , but now , business is really booming ! ",joy
+ that ’ s such great news . I ’ m really happy for you ! Where is your office located ? ,joy
+" well , good luck . I hope it all goes well for you tomorrow ! ",joy
+ thanks ! ,joy
+ Pretty well . What about you ? ,joy
+ Sure . I'll try my best to find a satisfying one for you . ,joy
+ I'll appreciate it so much . ,joy
+ Thank you . ,joy
+" Come have a look , I received many beautiful e-cards . They are from my friends , all over the world . Christmas wishes for all my friends . ",joy
+" Yeah , that would be great . Thanks . ",joy
+ Thanks million . ,joy
+ My pleasure . ,joy
+ Why are you trying to rush me off the phone ? ,anger
+ Why ? I still wanted to talk to you . ,anger
+ Don't be nosey . ,anger
+ That's harsh . ,anger
+" Sorry , I won't . I'll be working against the clock to finish my presentation . ",sadness
+" You're from Tangshan ? I can't believe my ears . I was also born in Tangshan , but I was brought up in Beijing . ",other
+ Really ? It's nice to meet you . How long have you been with this company ? ,other
+" Oh , Thank you very much ! ",joy
+ Great . ,joy
+ Great idea ! ,joy
+ Thank you so much . ,joy
+ You're welcome . ,joy
+" Oh , that's great . Thank you very much . ",joy
+Hi ! Is that the new laptop you brought last week ? It looks very nice . ,joy
+" Yes , it is . Thanks . I ’ m just surfing on the internet . ",joy
+ That ’ s great . Can you do it anywhere ? ,joy
+" It ’ s wonderful , isn ’ t it ? Would you like to see some photos that I took recently ? ",joy
+ What an excellent idea ! ,joy
+ I feel well now . ,joy
+"Congratulations , Francis . Your hard working finally pays off . I am so happy for your promotion . ",joy
+" Thanks , Monica . Without support from you and other colleagues , I would not have made it . ",joy
+" I'm afraid not , sir . Generally we can , but you know how it is in the rush hour now . ",sadness
+" No , thank you . ",joy
+" OK . Give me one , please . ",joy
+ Here it is . ,joy
+ Thank you . ,joy
+ I'm always at your service . ,joy
+ How is it you don ’ t know ? ,other
+ Thank you . Where is the washing room ? ,joy
+ I did ? ,other
+" I'm sorry for running it , but I really didn't know . ",sadness
+ I'm sorry for the misunderstanding . ,sadness
+" OK , thank you very much . ",joy
+" I'm sorry , but I just can't find the key . You must have it . ",sadness
+ That would be a good idea . ,joy
+ That seems very impressive . Good work ! ,joy
+" Thank you , but I cannot take all the credit . Our employees have all worked very hard to increase their productivity level . ",joy
+ I'd been feeling pretty well until just a few days ago . ,sadness
+" Well , I haven't been eating well , I guess . I usually only have enough time to grab a sandwich and a cup of coffee for lunch . ",sadness
+Thank you for purchasing your new mattress with us . ,joy
+" No , thank you . ",joy
+ That would be great . ,joy
+ That's great ! Thank you very much . ,joy
+ It sounds interesting . Can I go and see it ? ,joy
+ I thought he usually wrote horror books . ,other
+"Doctor , I have the worst toothache ! ",sadness
+what happened ? Why didn't he win ? ,other
+ how did that happen ? He's so talented ! I thought he had a great chance of winning a gold medal ! ,other
+ what ? What kind of drugs was he using ? ,other
+ Cool ! I can't believe he agreed to go all the way to Dallas with us ! ,joy
+ We have a great variety of Chinese antiques and porcelain . Do you like them ? ,joy
+ You are right . How about paintings and embroidered handkerchiefs ? ,joy
+ Sounds good . May I have a look ? ,joy
+" Of course . These paintings have many designs , such as animals , flowers , landscape , aquatics and so on . ",joy
+ All right . Chinese embroidery is one traditional art with elaborate design and high quality . ,joy
+" OK , I will wrap them for you . ",joy
+ Certainly . Go along Queen's Road ... ,joy
+ That's very kind of you . Thank you . Er ... have you got a pencil ? ,joy
+ Are you kidding ? That place is too ritzy for lunch . ,other
+ Good . I think I'll choose this single breasted one . When can I get it ? ,joy
+ Thank you . ,joy
+"Oh , gosh ! I feel everything around me is against me . ",sadness
+ Really ? I have been there several times . ,other
+ OK . I'll take the blue one . ,joy
+ Thank you very much . We always welcome new customers . ,joy
+ Why ? ,other
+" Oh , I've never seen a better Mexican restaurant . ",joy
+ Thank you very much . That ’ s very kind . ,joy
+ I'd love to . ,joy
+ Much better now . Thanks again . ,joy
+ My pleasure . ,joy
+ OK . Here you are . ,joy
+ Thank you.That ' s a good idea.she likes exciting books.Can you suggest another one ? ,joy
+ Really ? that's interesting ! ,joy
+" Yeah.Oh , here it comes ! why don't we watch it together ? they are going to have a court debate in this episode . It should be good . ",joy
+" OK , I'll give it a go . ",joy
+ That's perfect . I want to see one . ,joy
+" Oh , I like Digital Barbie ! How much does she cost ? ",joy
+ That's perfect . Let me have her . ,joy
+ Very good . Is there anything else you would like ? ,joy
+ Here's your change and receipt . Thank you . ,joy
+ you've got to see it . It's an unbelievable picture ! ,other
+" Well , this guy fell asleep on the sofa and when he woke up , half his face had been bitten off ! ",other
+ Thank you very much . ,joy
+ You're welcome . Let me know if you need anything else . ,joy
+Hi ! Fiona ? I almost didn't recognize you . You are much thinner since I last saw you . ,other
+ Thanks . ,joy
+ Good . I prefer beef soup . ,joy
+ Thank you . ,joy
+ You ’ re welcome . ,joy
+ Good . Now just complete this form . ,joy
+ Thank you . ,joy
+ Thanks for sharing your experience with me . ,joy
+ You're welcome ! ,joy
+ I ’ m afraid I can ’ t because I ’ m a stranger here . ,sadness
+" Oh , thanks all the same . ",joy
+ Not at all . You can ask the policeman over there . ,joy
+" It does sound wonderful , maybe I'll try it . ",joy
+" Just nice water , thanks . ",joy
+" Wow , fantastic . I like the font and color for his name . It is creative yet personal . ",joy
+ Thank you . ,joy
+" definitely . rich or poor , dogs always love their masters . ",joy
+" it's great ! Unfortunately , we're going to spend a fortune doing everything up . ",joy
+ it's about 200 years old . It has a lot of history ! ,joy
+ sounds fascinating . Where is your new house located ? ,joy
+ I'd be up for that ! ,joy
+We have achieved great success last year.The most important is that we realize our strength lies in after-sale service . ,joy
+ Your achievement is obvious to all . ,joy
+" Are you crazy ? You have no idea what you are talking about ! Just for my eyes I have to get eye-liner , an eyelash curler , eye shadow , an eyebrow pencil and mascara . Then I need to get foundation , liq ",other
+ Whoa whoa whoa ! Are you nuts ? How much is all this going to cost ? I ’ m looking at the price at each one of these little things and it ’ s outrageous ! This is basically a crayon ! ,anger
+" What about you ? You spend as much or more money on your razors , after shave , cologne and gel ! Not to mention how much you spend on clothes and ... ",anger
+ Fine ! Get the stupid thirty dollar crayon ! ,anger
+ Sounds great . That's just what I feel like having . ,joy
+They're here ! Now that's speedy service ! And they arrived within two days of each other ! ,joy
+ What are you waiting for ? Rip ‘ em open ! ,joy
+" It's nice , but how much did you end up paying ? ",joy
+ That's how you want it ? ,other
+" Yeah , that sounds delicious . ",joy
+How slowly you drive ! ,anger
+ I'm sorry . Something is wrong with my taxi . ,sadness
+ Sorry . You'd better get off for taking another taxi . ,sadness
+ Good . I wanna come with you . ,joy
+ How strange ! Our little emperor now asks to help out with shopping . ,other
+ Thanks . This shipment is so important to us there cannot be any foul-ups . ,joy
+ Yes . See you tomorrow afternoon . ,joy
+ 7 days ! What am I supposed to do for money until then ? ,other
+ Uh ! Dad ! ,anger
+ Are you nuts ? ,other
+ Really ? I didn't expect that . ,other
+ I should have booked the tickets in advance . ,sadness
+ Thank you . ,joy
+ Have a nice day . ,joy
+ I see . Thank you very much . ,joy
+ Yes . I bought two boxed of chocolate ? one for me and one for you ! ,joy
+" Oh , you didn ’ t have to ... ",joy
+ It was nothing . ,joy
+ That sounds pretty good ! How much is it ? ,joy
+ That sounds easy enough . ,joy
+" I'm mad ! I said now ! Turn off the TV , and do it now . ",anger
+" Peter , if you don't do it soon , I will throw your toys in the trash can . ",anger
+" Well , thanks a lot for your help . ",joy
+ Of course . Can I have it delivered to my girlfriend's house this afternoon ? ,joy
+" So it's time to buy your very first car ! Wow , that's exciting ! ",joy
+ Thank you . I will deal with it . ,joy
+" Thank you , you are very kind ! ",joy
+ You are welcome ! ,joy
+" Well , thanks for letting me know . ",joy
+ It was my pleasure . ,joy
+ I really appreciate your help . ,joy
+ That was great . Thanks for taking me driving . ,joy
+" Oh , this is fine . ",joy
+ Good idea . So we Can rest in the shadow of the tree . ,joy
+Ahhs ! I'm beat ! ,joy
+ What happened to you ? You look like you got hit by a tornado ! ,other
+ Cool ! ,joy
+" This sounds better every second . Now , when can I use the stations ? ",joy
+" Oh , boy ! This is going to be great . I'm going to the gym right now ! ",joy
+" I'm sure you'll enjoy your workout , sir . Everyone seems to like the swim stations . ",joy
+ It's fine . What beautiful scenery outside the window ! I think this one will do . ,joy
+ I am glad you like it . ,joy
+" Sure . This brand is supposed to be very good , but they're expensive . Those are new products . They come in several colors and sizes . There is also hard , soft , and medium . ",joy
+ Good . I ' ll take a dozen of them then . ,joy
+ Sure . Here you are . This one is excellent . Just mix one drop of it with milk . ,joy
+ Thanks . That'll be all . ,joy
+ What a shame ! I didn't see them . ,sadness
+ Sure . It's my pleasure . I'd like to help you look for the missing keys . ,joy
+ It's very kind of you . ,joy
+" It's not a big deal.Hey , I found them . ",joy
+" Oh , thank God ! I don't know how to thank you , guys . ",joy
+ You're welcome . ,joy
+ We hope your stay here a pleasant one ! ,joy
+ I believe I will . ,joy
+" Oh , shut up.She ' s already got married . ",other
+" Thank you , goodbye . ",joy
+" Goodbye , and have a nice day . ",joy
+ It looks so cute . Is it a parrot ? ,joy
+ I see . It's interesting that there is also a parrot in my English book . His mane is Polly . ,joy
+ Really ? A foreign parrot ! ,other
+" Lulu . Lulu . Say hello . hello . Oh , she is so smart . Good bird . ",joy
+ an mp4 player ? why don't you buy a new cell phone ? You can find an mp4 player inside any of the latest cell phones . ,other
+" Oh , that's a good idea . Perhaps I should have a try . ",joy
+" that's cool . I can use the computer and the internet pretty well , but I'm a little bit slow in the latest trends of digital products . ",joy
+ That's a good idea . I think I'll join you . ,joy
+" Good ! Here , let me help you with your bag . Is it your first time to Seattle ? I'd be happy to take you around this city and show you the sights tonight if you're up to it . ",joy
+ That will be very nice . You're too kind . ,joy
+" I've already made a hotel reservation for you , let's go to the hotel first and drop off your things . Then , I'd like to have a drink so that we can get better acquainted . I've booked a table at an exclusive restaurant downtown . Afterwards , I've made arrangements to take you to see the city lights . Seattle ’ s nightlife can be really quite exciting . How does that schedule sound to you ? ",joy
+ Sounds great . Thank you for your hospitality . ,joy
+ Thanks for the warning . ,joy
+ This is really wonderful party . ,joy
+" Yes , you are always popular with everyone . and you look very pretty today . ",joy
+" Thanks , that's very kind of you to say . I hope my necklace goes with my dress , and they both make me look good I feel . ",joy
+" You look great , you are absolutely glowing . ",joy
+" Thanks , this is a fine party . We should have a drink together to celebrate your birthday ",joy
+ You will feel comfortable paying the money . ,joy
+ A crate of beer ? Why do we need that ? ,other
+" OK , thanks for the order . ",joy
+ They're picking a name ... It's ... Darryl from marketing ! Rats ! ,sadness
+ It is . Hurry up ! You ’ ll be late for school . ,anger
+ It ’ s slow . Hurry up ! The bus goes at twenty to eight . ,anger
+ Good . Now just complete this form . ,joy
+ Thank you . ,joy
+ Thank you . See you later . ,joy
+ Really ? What time and where ? ,other
+" Thank you , see you then . ",joy
+Ahh ... What a fine day ! I do feel like an outdoor exercise . ,joy
+ OK.It ' s delightful to have a walk in the park with the air so fresh . ,joy
+" ( After they enter the park ) Oh , it's so quiet here.We have the park to ourselves , only you and me ! ",joy
+"I'm so sorry about your brother , Mr . Wang . ",sadness
+" Thanks , Jane . ",joy
+ May I have a look at that china tea set ? It is extremely beautiful . ,joy
